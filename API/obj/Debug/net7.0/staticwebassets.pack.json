@@ -1,0 +1,165 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\asset-manifest.json",
+      "PackagePath": "staticwebassets\\asset-manifest.json"
+    },
+    {
+      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\images\\Hero\\Banner1.jpg",
+      "PackagePath": "staticwebassets\\images\\Hero\\Banner1.jpg"
+    },
+    {
+      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\images\\Hero\\Banner2.jpg",
+      "PackagePath": "staticwebassets\\images\\Hero\\Banner2.jpg"
+    },
+    {
+      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\images\\Hero\\Banner3.jpg",
+      "PackagePath": "staticwebassets\\images\\Hero\\Banner3.jpg"
+    },
+    {
+      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\images\\Hero\\Website banner.png",
+      "PackagePath": "staticwebassets\\images\\Hero\\Website banner.png"
+    },
+    {
+      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\images\\Hero\\Website banner2.png",
+      "PackagePath": "staticwebassets\\images\\Hero\\Website banner2.png"
+    },
+    {
+      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\images\\Hero\\Website banner3.png",
+      "PackagePath": "staticwebassets\\images\\Hero\\Website banner3.png"
+    },
+    {
+      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\images\\placeholder.png",
+      "PackagePath": "staticwebassets\\images\\placeholder.png"
+    },
+    {
+      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\images\\products\\alexa-amazon-1.png",
+      "PackagePath": "staticwebassets\\images\\products\\alexa-amazon-1.png"
+    },
+    {
+      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\images\\products\\drone-png-1.png",
+      "PackagePath": "staticwebassets\\images\\products\\drone-png-1.png"
+    },
+    {
+      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\images\\products\\huawei-watch-1.png",
+      "PackagePath": "staticwebassets\\images\\products\\huawei-watch-1.png"
+    },
+    {
+      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\images\\products\\humidifier-1.png",
+      "PackagePath": "staticwebassets\\images\\products\\humidifier-1.png"
+    },
+    {
+      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\images\\products\\samsung-smart-tv-1.png",
+      "PackagePath": "staticwebassets\\images\\products\\samsung-smart-tv-1.png"
+    },
+    {
+      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\images\\products\\samsung-watch-1.png",
+      "PackagePath": "staticwebassets\\images\\products\\samsung-watch-1.png"
+    },
+    {
+      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\images\\products\\smart-apple-1.png",
+      "PackagePath": "staticwebassets\\images\\products\\smart-apple-1.png"
+    },
+    {
+      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\images\\products\\smart-plug-1.png",
+      "PackagePath": "staticwebassets\\images\\products\\smart-plug-1.png"
+    },
+    {
+      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\logo192.png",
+      "PackagePath": "staticwebassets\\logo192.png"
+    },
+    {
+      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\logo512.png",
+      "PackagePath": "staticwebassets\\logo512.png"
+    },
+    {
+      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\manifest.json",
+      "PackagePath": "staticwebassets\\manifest.json"
+    },
+    {
+      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\robots.txt",
+      "PackagePath": "staticwebassets\\robots.txt"
+    },
+    {
+      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\static\\css\\main.87660d6f.css",
+      "PackagePath": "staticwebassets\\static\\css\\main.87660d6f.css"
+    },
+    {
+      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\static\\css\\main.87660d6f.css.map",
+      "PackagePath": "staticwebassets\\static\\css\\main.87660d6f.css.map"
+    },
+    {
+      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\static\\js\\787.c4e7f8f9.chunk.js",
+      "PackagePath": "staticwebassets\\static\\js\\787.c4e7f8f9.chunk.js"
+    },
+    {
+      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\static\\js\\787.c4e7f8f9.chunk.js.map",
+      "PackagePath": "staticwebassets\\static\\js\\787.c4e7f8f9.chunk.js.map"
+    },
+    {
+      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\static\\js\\main.c3ca762d.js",
+      "PackagePath": "staticwebassets\\static\\js\\main.c3ca762d.js"
+    },
+    {
+      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\static\\js\\main.c3ca762d.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\static\\js\\main.c3ca762d.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\static\\js\\main.c3ca762d.js.map",
+      "PackagePath": "staticwebassets\\static\\js\\main.c3ca762d.js.map"
+    },
+    {
+      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\static\\media\\Banner1.8e29a1e83fbefb8bb57d.jpg",
+      "PackagePath": "staticwebassets\\static\\media\\Banner1.8e29a1e83fbefb8bb57d.jpg"
+    },
+    {
+      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\static\\media\\Banner2.270e34d6827ee35c3d28.jpg",
+      "PackagePath": "staticwebassets\\static\\media\\Banner2.270e34d6827ee35c3d28.jpg"
+    },
+    {
+      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\static\\media\\Banner3.56818365ebd18617221f.jpg",
+      "PackagePath": "staticwebassets\\static\\media\\Banner3.56818365ebd18617221f.jpg"
+    },
+    {
+      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\static\\media\\slick.2630a3e3eab21c607e21.svg",
+      "PackagePath": "staticwebassets\\static\\media\\slick.2630a3e3eab21c607e21.svg"
+    },
+    {
+      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\static\\media\\slick.295183786cd8a1389865.woff",
+      "PackagePath": "staticwebassets\\static\\media\\slick.295183786cd8a1389865.woff"
+    },
+    {
+      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\static\\media\\slick.a4e97f5a2a64f0ab1323.eot",
+      "PackagePath": "staticwebassets\\static\\media\\slick.a4e97f5a2a64f0ab1323.eot"
+    },
+    {
+      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\static\\media\\slick.c94f7671dcc99dce43e2.ttf",
+      "PackagePath": "staticwebassets\\static\\media\\slick.c94f7671dcc99dce43e2.ttf"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.API.props",
+      "PackagePath": "build\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.API.props",
+      "PackagePath": "buildMultiTargeting\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.API.props",
+      "PackagePath": "buildTransitive\\API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

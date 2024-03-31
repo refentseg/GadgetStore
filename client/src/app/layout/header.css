@@ -1,0 +1,152 @@
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+    padding: 0 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .header-logo {
+    font-size: 24px;
+    font-weight: bold;
+    margin-right: auto;
+  }
+  
+  .header-nav {
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 20px;
+  }
+  
+  .header-nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .header-nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  .header-nav ul li:last-child {
+    margin-right: 0;
+  }
+  
+  .header-nav ul li a {
+    color: #333;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+  }
+  
+  .header-nav ul li a:hover {
+    color: #777;
+  }
+
+
+/*============== Hambuger Menu ====================*/
+.header-menu {
+    display: none;
+    cursor: pointer;
+    border: none;
+    background-color: transparent;
+    padding: 10px;
+  }
+  
+  .header-menu span {
+    display: block;
+    height: 3px;
+    width: 25px;
+    margin-bottom: 5px;
+    background-color: #333;
+  }
+  
+  @media only screen and (max-width: 768px) {
+    .header-menu {
+      display: block;
+    }
+  
+    .header-nav {
+      display: none;
+      position: fixed;
+      top: 0;
+      left: 0;
+      height: 100%;
+      width: 100%;
+      background-color: rgba(0, 0, 0, 0.9);
+      padding: 20px;
+      text-align: center;
+    }
+  
+    .header-nav.open {
+      display: block;
+    }
+  
+    .header-nav ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      height: 100%;
+    }
+    .header-nav ul li {
+      margin-bottom: 20px;
+    }
+  
+    .header-nav ul li:last-child {
+      margin-bottom: 0;
+    }
+  
+    .header-nav ul li a {
+      color: #fff;
+      text-decoration: none;
+      font-weight: bold;
+      font-size: 24px;
+      padding: 10px;
+      display: block;
+      width: 100%;
+      transition: background-color 0.2s ease-in-out;
+    }
+  
+    .header-nav ul li a:hover {
+      background-color: rgba(255, 255, 255, 0.2);
+    }
+  }
+  .header-right {
+    display: flex;
+    align-items: center;
+  }
+  
+.header-links {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+  
+  .header-links li {
+    margin-left: 1rem;
+  }
+  
+  .fa-shopping-bag {
+    font-size: 1.5rem;
+    margin-right: 0.5rem;
+  }
+  
+  .shopping-bag-count {
+    display: inline-block;
+    margin-left: 0.5rem;
+    padding: 0.25rem;
+    border-radius: 50%;
+    background-color: #000;
+    color: #fff;
+    font-size: 0.75rem;
+    font-weight: bold;
+}
