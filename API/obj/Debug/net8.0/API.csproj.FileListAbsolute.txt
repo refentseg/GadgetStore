@@ -133,3 +133,4 @@ D:\Developer\Projects\GadgetStore\API\obj\Debug\net8.0\refint\API.dll
 D:\Developer\Projects\GadgetStore\API\obj\Debug\net8.0\API.pdb
 D:\Developer\Projects\GadgetStore\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 D:\Developer\Projects\GadgetStore\API\obj\Debug\net8.0\ref\API.dll
+D:\Developer\Projects\GadgetStore\API\obj\Debug\net8.0\API.sourcelink.json
