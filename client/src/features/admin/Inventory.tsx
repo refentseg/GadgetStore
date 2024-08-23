@@ -58,7 +58,7 @@ export default function Inventory() {
                             <TableCell align="center">Type</TableCell>
                             <TableCell align="center">Brand</TableCell>
                             <TableCell align="center">Quantity</TableCell>
-                            <TableCell align="right"></TableCell>
+                            <TableCell align="right" className="sr-only w-0 h-0">Actions</TableCell>
                         </TableRow>
                     </TableHead>
                     <TableBody>
