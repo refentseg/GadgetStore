@@ -19,3 +19,8 @@ A modern web application for a gadget store using .NET Web API, React.js, and Po
 
 [Link](https://gadgetstore.fly.dev/)
 
+## Screenshot 
+
+![Screenshot 2024-06-20 141204](https://github.com/user-attachments/assets/51279c23-dd65-4bf6-80b7-e876281d7580)
+
+
