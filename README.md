@@ -12,7 +12,7 @@ A modern web application for a gadget store using .NET Web API, React.js, and Po
 
 **Database:** PostgreSQL
 
-**Authentication:** JWT 
+**Authentication:** Identity, JWT 
 
 
 ## Demo
