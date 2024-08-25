@@ -6,7 +6,7 @@ A modern web application for a gadget store using .NET Web API, React.js, and Po
 
 ## Tech Stack
 
-**Backend:** .NET Web API
+**Backend:** .NET Web API,Entity Framework 
 
 **Frontend:** React.js,Redux,Axios
 
