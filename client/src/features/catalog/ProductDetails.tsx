@@ -10,13 +10,13 @@ import NotFound from "../../app/Errors/NotFound";
 import Currency from "../../app/components/ui/currency";
 
 export default function ProductDetails(){
-    const {basket,status} = useAppSelector(state => state.basket);
+    const {basket,status} = useAppSelector(state => state.basket) || { items: [] };
     const dispatch = useAppDispatch();
     const {id} = useParams<{id:string}>()
     const product = useAppSelector(state=>productSelectors.selectById(state,id!));
     const {status: productStatus} = useAppSelector(state => state.catalog);
     const [quantity,setQuantity] = useState(0);
-    const item = basket?.items.find(i => i.productId === product?.id);
+    const item = basket?.items?.find(i => i.productId === product?.id);
 
     useEffect(()=>{
         if(item) setQuantity(item.quantity);
@@ -38,10 +38,10 @@ export default function ProductDetails(){
         if(!product) return;
         if(!item || quantity >item.quantity){
             const updatedQuantity = item ? quantity - item.quantity :quantity;
-            dispatch(addBasketItemAsync({productId:product.id!,quantity:updatedQuantity}))
+            dispatch(addBasketItemAsync({productId:product.id,quantity:updatedQuantity}))
         }else{
             const updatedQuantity = item.quantity - quantity;
-            dispatch(removeBasketItemAsync({productId:product.id!,quantity:updatedQuantity}))
+            dispatch(removeBasketItemAsync({productId:product.id,quantity:updatedQuantity}))
         }
     }
 

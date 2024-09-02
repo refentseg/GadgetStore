@@ -23,7 +23,8 @@ export default function AppPagination({metaData,onPageChange}:Props){
             count={totalPages}
             //which page its currently on
             page={currentPage}
-            onChange={(e,page)=> onPageChange(page)} />
+
+            onChange={(_e,page)=> onPageChange(page)} />
         </Box>
     )
 }

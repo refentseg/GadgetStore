@@ -1,7 +1,6 @@
 import { useLocation, Outlet, Navigate} from "react-router-dom";
 import { useAppSelector } from "../Store/configureStore";
 import { toast } from "react-toastify";
-import { Sidebar } from "lucide-react";
 
 interface Props{
     roles?:string[];

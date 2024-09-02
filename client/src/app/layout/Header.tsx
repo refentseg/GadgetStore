@@ -13,10 +13,10 @@ import { Link, NavLink } from "react-router-dom";
 import { useAppSelector } from "../Store/configureStore";
 import SignedInMenu from "./SignedInMenu";
 
-interface Props {
-  darkMode: boolean;
-  handleThemeChange: () => void;
-}
+// interface Props {
+//   darkMode: boolean;
+//   handleThemeChange: () => void;
+// }
 const midlinks = [
   { title: "catalog", path: "/catalog" },
   // { title: "about", path: "/about" },

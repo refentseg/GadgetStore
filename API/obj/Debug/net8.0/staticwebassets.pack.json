@@ -1,12 +1,32 @@
 {
   "Files": [
     {
-      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\asset-manifest.json",
-      "PackagePath": "staticwebassets\\asset-manifest.json"
+      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\assets\\Banner1-c044fb03.jpg",
+      "PackagePath": "staticwebassets\\assets\\Banner1-c044fb03.jpg"
     },
     {
-      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\favicon.ico",
-      "PackagePath": "staticwebassets\\favicon.ico"
+      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\assets\\Banner2-1a8cddf4.jpg",
+      "PackagePath": "staticwebassets\\assets\\Banner2-1a8cddf4.jpg"
+    },
+    {
+      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\assets\\Banner3-01a3395e.jpg",
+      "PackagePath": "staticwebassets\\assets\\Banner3-01a3395e.jpg"
+    },
+    {
+      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\assets\\ajax-loader-e7b44c86.gif",
+      "PackagePath": "staticwebassets\\assets\\ajax-loader-e7b44c86.gif"
+    },
+    {
+      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\assets\\index-36baf855.css",
+      "PackagePath": "staticwebassets\\assets\\index-36baf855.css"
+    },
+    {
+      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\assets\\index-7c6d0681.js",
+      "PackagePath": "staticwebassets\\assets\\index-7c6d0681.js"
+    },
+    {
+      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\assets\\slick-12459f22.svg",
+      "PackagePath": "staticwebassets\\assets\\slick-12459f22.svg"
     },
     {
       "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\images\\Hero\\Banner1.jpg",
@@ -71,78 +91,6 @@
     {
       "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
-    },
-    {
-      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\logo192.png",
-      "PackagePath": "staticwebassets\\logo192.png"
-    },
-    {
-      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\logo512.png",
-      "PackagePath": "staticwebassets\\logo512.png"
-    },
-    {
-      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\manifest.json",
-      "PackagePath": "staticwebassets\\manifest.json"
-    },
-    {
-      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\robots.txt",
-      "PackagePath": "staticwebassets\\robots.txt"
-    },
-    {
-      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\static\\css\\main.87660d6f.css",
-      "PackagePath": "staticwebassets\\static\\css\\main.87660d6f.css"
-    },
-    {
-      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\static\\css\\main.87660d6f.css.map",
-      "PackagePath": "staticwebassets\\static\\css\\main.87660d6f.css.map"
-    },
-    {
-      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\static\\js\\787.c4e7f8f9.chunk.js",
-      "PackagePath": "staticwebassets\\static\\js\\787.c4e7f8f9.chunk.js"
-    },
-    {
-      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\static\\js\\787.c4e7f8f9.chunk.js.map",
-      "PackagePath": "staticwebassets\\static\\js\\787.c4e7f8f9.chunk.js.map"
-    },
-    {
-      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\static\\js\\main.c3ca762d.js",
-      "PackagePath": "staticwebassets\\static\\js\\main.c3ca762d.js"
-    },
-    {
-      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\static\\js\\main.c3ca762d.js.LICENSE.txt",
-      "PackagePath": "staticwebassets\\static\\js\\main.c3ca762d.js.LICENSE.txt"
-    },
-    {
-      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\static\\js\\main.c3ca762d.js.map",
-      "PackagePath": "staticwebassets\\static\\js\\main.c3ca762d.js.map"
-    },
-    {
-      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\static\\media\\Banner1.8e29a1e83fbefb8bb57d.jpg",
-      "PackagePath": "staticwebassets\\static\\media\\Banner1.8e29a1e83fbefb8bb57d.jpg"
-    },
-    {
-      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\static\\media\\Banner2.270e34d6827ee35c3d28.jpg",
-      "PackagePath": "staticwebassets\\static\\media\\Banner2.270e34d6827ee35c3d28.jpg"
-    },
-    {
-      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\static\\media\\Banner3.56818365ebd18617221f.jpg",
-      "PackagePath": "staticwebassets\\static\\media\\Banner3.56818365ebd18617221f.jpg"
-    },
-    {
-      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\static\\media\\slick.2630a3e3eab21c607e21.svg",
-      "PackagePath": "staticwebassets\\static\\media\\slick.2630a3e3eab21c607e21.svg"
-    },
-    {
-      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\static\\media\\slick.295183786cd8a1389865.woff",
-      "PackagePath": "staticwebassets\\static\\media\\slick.295183786cd8a1389865.woff"
-    },
-    {
-      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\static\\media\\slick.a4e97f5a2a64f0ab1323.eot",
-      "PackagePath": "staticwebassets\\static\\media\\slick.a4e97f5a2a64f0ab1323.eot"
-    },
-    {
-      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\static\\media\\slick.c94f7671dcc99dce43e2.ttf",
-      "PackagePath": "staticwebassets\\static\\media\\slick.c94f7671dcc99dce43e2.ttf"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",
