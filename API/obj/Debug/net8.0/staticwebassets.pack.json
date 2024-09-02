@@ -21,12 +21,16 @@
       "PackagePath": "staticwebassets\\assets\\index-36baf855.css"
     },
     {
-      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\assets\\index-7c6d0681.js",
-      "PackagePath": "staticwebassets\\assets\\index-7c6d0681.js"
+      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\assets\\index-7d6956cf.js",
+      "PackagePath": "staticwebassets\\assets\\index-7d6956cf.js"
     },
     {
       "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\assets\\slick-12459f22.svg",
       "PackagePath": "staticwebassets\\assets\\slick-12459f22.svg"
+    },
+    {
+      "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
       "Id": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\images\\Hero\\Banner1.jpg",

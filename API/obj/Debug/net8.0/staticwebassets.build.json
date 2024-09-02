@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QJNWpGFA4GonoxEOvpG6WW7GLvjINArH7bCB7Z1MKkA=",
+  "Hash": "oIHxlZNitDWgFnF2Lv3ClkjMwEd2jEJp38LzcBiqtdA=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -112,12 +112,12 @@
       "OriginalItemSpec": "wwwroot\\assets\\index-36baf855.css"
     },
     {
-      "Identity": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\assets\\index-7c6d0681.js",
+      "Identity": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\assets\\index-7d6956cf.js",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "assets/index-7c6d0681.js",
+      "RelativePath": "assets/index-7d6956cf.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -128,7 +128,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\index-7c6d0681.js"
+      "OriginalItemSpec": "wwwroot\\assets\\index-7d6956cf.js"
     },
     {
       "Identity": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\assets\\slick-12459f22.svg",
@@ -148,6 +148,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\slick-12459f22.svg"
+    },
+    {
+      "Identity": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\favicon.ico",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
       "Identity": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\images\\Hero\\Banner1.jpg",
