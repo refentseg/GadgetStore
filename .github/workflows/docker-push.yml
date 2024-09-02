@@ -25,4 +25,4 @@ jobs:
         with:
           context: "{{defaultContext}}:API"
           push: true
-          tags: theuglybwe/gadgetstore:latest
+          tags: refentseg/gadgetstore:latest

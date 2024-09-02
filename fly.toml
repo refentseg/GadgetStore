@@ -1,4 +1,4 @@
-# fly.toml app configuration file generated for gadgetstore on 2024-09-02T20:34:54+02:00
+# fly.toml app configuration file generated for gadgetstore on 2024-09-02T21:45:48+02:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
@@ -7,7 +7,7 @@ app = 'gadgetstore'
 primary_region = 'jnb'
 
 [build]
-  image = 'theuglybwe/gadgetstore:latest'
+  image = 'refentseg/gadgetstore:latest'
 
 [env]
   ASPNETCORE_URLS = 'http://+:8080'
