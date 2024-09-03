@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "oIHxlZNitDWgFnF2Lv3ClkjMwEd2jEJp38LzcBiqtdA=",
+  "Hash": "+DEJ3+knLkyPkLGGYfsmym5x/uPk8Allo0LRA3s9ckI=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -93,12 +93,12 @@
       "OriginalItemSpec": "wwwroot\\assets\\Banner3-01a3395e.jpg"
     },
     {
-      "Identity": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\assets\\index-36baf855.css",
+      "Identity": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\assets\\index-2608e216.js",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "assets/index-36baf855.css",
+      "RelativePath": "assets/index-2608e216.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -109,15 +109,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\index-36baf855.css"
+      "OriginalItemSpec": "wwwroot\\assets\\index-2608e216.js"
     },
     {
-      "Identity": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\assets\\index-7d6956cf.js",
+      "Identity": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\assets\\index-a02d0b72.css",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "assets/index-7d6956cf.js",
+      "RelativePath": "assets/index-a02d0b72.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -128,7 +128,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\index-7d6956cf.js"
+      "OriginalItemSpec": "wwwroot\\assets\\index-a02d0b72.css"
     },
     {
       "Identity": "D:\\Developer\\Projects\\GadgetStore\\API\\wwwroot\\assets\\slick-12459f22.svg",
