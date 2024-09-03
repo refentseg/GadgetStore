@@ -19,8 +19,3 @@ export const formatter = new Intl.NumberFormat("en-ZA",{
   currency:'ZAR',
   minimumFractionDigits:2
 });
-
-//delivery
-export function deliveryFee(subtotal:number){
-
-}

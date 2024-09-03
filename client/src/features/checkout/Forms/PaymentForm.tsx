@@ -1,5 +1,4 @@
 import Typography from '@mui/material/Typography';
-import { useFormContext } from 'react-hook-form';
 import React from 'react';
 import { Grid, TextField } from '@mui/material';
 import AppTextInput from '../../../app/components/AppTextInput';
@@ -13,10 +12,6 @@ interface Props{
 }
 
 export default function PaymentForm({cardState,onCardInputChange}:Props) {
- //PayStack
-
-//Stripe
-  const {control} = useFormContext();
   return (
     <React.Fragment>
       <Typography variant="h6" gutterBottom>

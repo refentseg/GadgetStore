@@ -56,7 +56,7 @@ function App() {
     <ThemeProvider theme={theme}>
     <ToastContainer position="bottom-right" hideProgressBar />
     <CssBaseline />
-    <Header />
+    <Header darkMode={darkMode} handleThemeChange={handleThemeChange}/>
     <ModalProvider />
     {loading? <LoadingComponent message="Initiallizing app..." />
      :location.pathname === '/' ? <HomePage />
