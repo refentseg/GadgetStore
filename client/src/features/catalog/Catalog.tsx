@@ -45,7 +45,7 @@ export default function Catalog() {
 
   return (
     <Grid container columnSpacing={4}>
-      <Grid item xs={3} sx={{ display: { xs: 'none', md: 'block' } }}>
+      <Grid item xs={12} md={3} sx={{ display: { xs: '', md: 'block' } }}>
         <Paper sx={{ mb: 2 }}>
           <ProductSearch />
         </Paper>
@@ -77,7 +77,7 @@ export default function Catalog() {
         <ProductList products={products} />
       </Grid>
       <Grid item xs={3}/>
-      <Grid item xs={9} sx={{mb:2}}>
+      <Grid item xs={12} md={9} sx={{mb:2}}>
         {metaData &&        
         <AppPagination
         metaData={metaData}

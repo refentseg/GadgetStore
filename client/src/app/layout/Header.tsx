@@ -103,7 +103,10 @@ export default function Header({darkMode,handleThemeChange}:Props) {
   const {user} = useAppSelector(state=>state.account)
   const itemCount = basket?.items.reduce((sum,item)=>sum+item.quantity,0)
   return (
-    <AppBar position="static" elevation={0} style={{ background: '#fafafa',color:'black' }}>
+    <AppBar position="static" elevation={0} style={{
+      background: darkMode ? '#1a1a1a' : '#fafafa',
+      color: darkMode ? 'white' : 'black'
+  }}>
       <Toolbar
         sx={{
           display: "flex",

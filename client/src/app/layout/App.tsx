@@ -32,6 +32,17 @@ function App() {
    },[initApp])
    
    const [darkMode, setDarkMode] = useState(false);
+
+
+   useEffect(() => {
+    // Update Tailwind dark mode
+    if (darkMode) {
+      document.documentElement.classList.add('dark');
+    } else {
+      document.documentElement.classList.remove('dark');
+    }
+  }, [darkMode]);
+
   const paletteType = darkMode ? "dark" : "light";
   const theme = createTheme({
     palette: {
@@ -43,7 +54,7 @@ function App() {
         main:'#375fbb'
       },
       background: {
-        default: paletteType === "light" ? "#eaeaea" : "#121212",
+        default: paletteType === "light" ? "#eaeaea" : "#333333",
       },
     },
   });

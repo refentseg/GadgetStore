@@ -49,7 +49,7 @@ const onPreview:MouseEventHandler<HTMLButtonElement> = (event) =>{
   return (
     <>
     <div onClick={handleClick}
-        className={`dark:bg-slate-800 bg-white group cursor-pointer rounded-xl border p-3 space-y-4`}
+        className={`dark:bg-slate-950 bg-white group cursor-pointer rounded-xl border p-3 space-y-4 dark:border-neutral-700`}
       >
     <div className="aspect-square rounded-xl bg-gray-100 relative">
        {/* create Image component */}
