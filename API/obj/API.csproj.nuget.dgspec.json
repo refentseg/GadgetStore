@@ -60,31 +60,33 @@
             },
             "CloudinaryDotNet": {
               "target": "Package",
-              "version": "[1.21.0, )"
+              "version": "[1.26.2, )"
             },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[8.0.8, )"
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[8.0.8, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[8.0.8, )"
             },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
-              "version": "[8.0.2, )"
+              "version": "[8.0.4, )"
             },
             "PayFast": {
               "target": "Package",
-              "version": "[1.0.5, )"
+              "version": "[2.0.0, )"
             },
             "PayFast.AspNetCore": {
               "target": "Package",
-              "version": "[1.0.5, )"
+              "version": "[2.0.0, )"
             },
             "PayStackDotNetSDK": {
               "target": "Package",
@@ -92,7 +94,7 @@
             },
             "Paystack.Net": {
               "target": "Package",
-              "version": "[1.1.0, )"
+              "version": "[1.1.1, )"
             },
             "Paystack.Net.SDK": {
               "target": "Package",
@@ -100,11 +102,11 @@
             },
             "Stripe.net": {
               "target": "Package",
-              "version": "[41.28.0, )"
+              "version": "[45.10.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.5.0, )"
+              "version": "[6.7.3, )"
             }
           },
           "imports": [
