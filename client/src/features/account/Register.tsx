@@ -27,7 +27,7 @@ export default function Register() {
           setError('password',{message:error})
         }else if(error.includes('Email')){
           setError('email',{message:error})
-        }else if(errors.includes('Username')){
+        }else if(error.includes('Username')){
           setError('username',{message:error})
         }
       })
